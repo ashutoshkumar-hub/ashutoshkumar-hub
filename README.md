@@ -17,9 +17,3 @@ Professional Deveopers Personal Account.
 
     - I work with SQL
     - I play with Tableau
-
-<p><img align="left" src="https://github-readme-stats-five-steel.vercel.app/api/top-langs/?username=ashutoshkumar-1theme=light" alt="ashutoshkumar-1" /></p>
-
-<p><img align="left" src="https://github-readme-stats-five-steel.vercel.app/api?username=ashutoshkumar-1&show_icons=true&theme=light&hide=issues&count_private=true&" alt="ashutoshkumar-1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkumar-1&" alt="ashutoshkumar-1" /></p>
