@@ -2,9 +2,9 @@
 
 Professional Deveopers Personal Account.
 
-<p><img src="https://komarev.com/ghpvc/?username=ashutoshkumar-1&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkumar-1" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=ashutoshsinghkumar&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsinghkumar" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshkumar-1" alt="ashutoshkumar-1" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshsinghkumar" alt="ashutoshsinghkumar" /></a></p>
 
 - 🔭 I’m currently working on SQL, SSIS ETL Tool and Tableau.
 - 🌱 I’m currently learning Snowflake.
