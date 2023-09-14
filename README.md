@@ -15,7 +15,7 @@ Professional Deveopers Personal Account.
 ### What I do?
 
     - I work with SQL and Tableau
-    - I play with SQL and Python
+    - I play with Data
 
 <p><img align="left" src="https://github-readme-stats-five-steel.vercel.app/api/top-langs/?username=ashutoshkumarofficial&theme=light" alt="ashutoshkumarofficial" /></p>
 
