@@ -4,7 +4,7 @@ Professional Deveopers Personal Account.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkumarofficial&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkumarofficial" /> </p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshkumarofficial" alt="ashutoshkumarofficial" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshkumarofficial" alt="ashutoshkumarofficial" /></a> </p>
 
 - 🔭 I’m currently working on SQL, SSIS, and Tableau.
 - 🌱 I’m currently learning Snowflake.
